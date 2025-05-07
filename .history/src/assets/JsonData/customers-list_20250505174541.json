@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "김민수",
+        "email": "kimms1@example.com",
+        "location": "서울특별시",
+        "phone": "+82 10-1234-5678",
+        "total_spend": "₩557,248",
+        "total_orders": 24011
+    },
+    {
+        "id": 2,
+        "name": "이서준",
+        "email": "leeseojun@example.com",
+        "location": "부산광역시",
+        "phone": "+82 10-2345-6789",
+        "total_spend": "₩599,865",
+        "total_orders": 60195
+    },
+    {
+        "id": 3,
+        "name": "박지우",
+        "email": "parkjiwoo@example.com",
+        "location": "대구광역시",
+        "phone": "+82 10-3456-7890",
+        "total_spend": "₩171,337",
+        "total_orders": 96328
+    },
+    {
+        "id": 4,
+        "name": "최하은",
+        "email": "choihaeun@example.com",
+        "location": "인천광역시",
+        "phone": "+82 10-4567-8901",
+        "total_spend": "₩335,863",
+        "total_orders": 78768
+    },
+    {
+        "id": 5,
+        "name": "정도윤",
+        "email": "jeongdoyun@example.com",
+        "location": "광주광역시",
+        "phone": "+82 10-5678-9012",
+        "total_spend": "₩719,845",
+        "total_orders": 26045
+    },
+    {
+        "id": 6,
+        "name": "한지민",
+        "email": "hanjimin@example.com",
+        "location": "대전광역시",
+        "phone": "+82 10-6789-0123",
+        "total_spend": "₩621,447",
+        "total_orders": 90771
+    },
+    {
+        "id": 7,
+        "name": "윤아름",
+        "email": "yoonareum@example.com",
+        "location": "울산광역시",
+        "phone": "+82 10-7890-1234",
+        "total_spend": "₩640,651",
+        "total_orders": 97842
+    },
+    {
+        "id": 8,
+        "name": "강민호",
+        "email": "kangminho@example.com",
+        "location": "경기도 수원시",
+        "phone": "+82 10-8901-2345",
+        "total_spend": "₩473,255",
+        "total_orders": 85298
+    },
+    {
+        "id": 9,
+        "name": "오하늘",
+        "email": "ohhaneul@example.com",
+        "location": "경상북도 포항시",
+        "phone": "+82 10-9012-3456",
+        "total_spend": "₩513,918",
+        "total_orders": 38959
+    },
+    {
+        "id": 10,
+        "name": "서지훈",
+        "email": "seojihoon@example.com",
+        "location": "전라남도 여수시",
+        "phone": "+82 10-0123-4567",
+        "total_spend": "₩862,509",
+        "total_orders": 48049
+    }
+]

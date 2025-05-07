@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "LicensePlate": "12가 3456",
+        "Route": "1550-1",
+        "BusType": "직행좌석버스",
+        "BusCompany": "대원고속",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 2,
+        "LicensePlate": "12가 3457",
+        "Route": "1550-1",
+        "BusType": "직행좌석버스",
+        "BusCompany": "대원고속",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 3,
+        "LicensePlate": "12가 3458",
+        "Route": "1550-1",
+        "BusType": "직행좌석버스",
+        "BusCompany": "대원고속",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 4,
+        "LicensePlate": "12가 3459",
+        "Route": "1550-1",
+        "BusType": "직행좌석버스",
+        "BusCompany": "대원고속",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 5,
+        "LicensePlate": "12가 3460",
+        "Route": "1550-1",
+       "BusType": "직행좌석버스",
+        "BusCompany": "대원고속",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 6,
+        "LicensePlate": "12가 3461",
+        "Route": "1550-1",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 7,
+        "LicensePlate": "12가 3462",
+        "Route": "1550-1",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 8,
+        "LicensePlate": "12가 3463",
+        "Route": "1550-1",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 9,
+        "LicensePlate": "12가 3464",
+        "Route": "1552",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 10,
+        "LicensePlate": "12가 3465",
+        "Route": "1552",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 11,
+        "LicensePlate": "12가 3466",
+        "Route": "1552",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 12,
+        "LicensePlate": "12가 3467",
+        "Route": "1552",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 13,
+        "LicensePlate": "12가 3468",
+        "Route": "1552",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 14,
+        "LicensePlate": "12가 3469",
+        "Route": "4449M",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    },
+    {
+        "id": 15,
+        "LicensePlate": "12가 3470",
+        "Route": "4449M",
+        "BusType": "시내버스",
+        "BusCompany": "서울시버스",
+        "BusModel": "현대 일렉시티",
+        "Drivable": true
+    }
+]
